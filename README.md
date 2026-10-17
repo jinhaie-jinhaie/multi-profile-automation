@@ -96,6 +96,13 @@ pm.close_all()              # 优雅关闭全部（保留登录态）
 
 MIT License
 
+## 💡 EffiHub 工具商店
+
+更多效率工具（AI 办公提示词 / Notion 效率模板 / ComfyUI 工作流包 / 电子书）正在 **EffiHub** 上架中：
+
+- 🚧 Gumroad 店铺链接即将上线
+- 🚧 Payhip 店铺链接即将上线
+
 ## ⭐ 支持
 
 如果这个框架对你有帮助，点个 Star ⭐ 是对我最大的支持。完整版（多站点模板、GUI 管理面板、定时任务）持续开发中。
