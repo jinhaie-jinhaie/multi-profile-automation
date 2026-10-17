@@ -1,0 +1,20 @@
+# 敏感文件
+accounts.json
+*.json.tmp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# 浏览器 profile（登录态数据）
+profiles/
+chrome-debug-*/
+
+# IDE / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
