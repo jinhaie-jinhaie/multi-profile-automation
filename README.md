@@ -100,8 +100,12 @@ MIT License
 
 更多效率工具（AI 办公提示词 / Notion 效率模板 / ComfyUI 工作流包 / 电子书）正在 **EffiHub** 上架中：
 
+- 🛒 **Payhip 店铺（已上线）**：[payhip.com/EffiHub](https://payhip.com/EffiHub)
+  - [ComfyUI 工作流包 $12](https://payhip.com/b/fxigj)
+  - [AI 办公提示词包 $9](https://payhip.com/b/pOi3E)
+  - [Notion 效率模板 $7](https://payhip.com/b/40ycT)
+  - [AI 办公效率手册 $6](https://payhip.com/b/W6lsN)
 - 🚧 Gumroad 店铺链接即将上线
-- 🚧 Payhip 店铺链接即将上线
 
 ## ⭐ 支持
 
