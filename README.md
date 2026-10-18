@@ -110,6 +110,7 @@ MIT License
   - [AI Office Prompt Pack $9](https://350943922173.gumroad.com/l/cspjie)
   - [Notion Efficiency Templates $7](https://350943922173.gumroad.com/l/orvlko)
   - [AI Office Efficiency Handbook $6](https://350943922173.gumroad.com/l/ekkort)
+- ✈️ **TG 频道（效率工具更新）**：[t.me/+P99Q_steM5w0MDdl](https://t.me/+P99Q_steM5w0MDdl)
 
 ## ⭐ 支持
 
