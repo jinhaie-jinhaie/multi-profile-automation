@@ -105,7 +105,11 @@ MIT License
   - [AI 办公提示词包 $9](https://payhip.com/b/pOi3E)
   - [Notion 效率模板 $7](https://payhip.com/b/40ycT)
   - [AI 办公效率手册 $6](https://payhip.com/b/W6lsN)
-- 🚧 Gumroad 店铺链接即将上线
+- 🛒 **Gumroad 店铺（已上线）**：[effihub.gumroad.com](https://effihub.gumroad.com)
+  - [ComfyUI Workflow Pack $12](https://350943922173.gumroad.com/l/xzhnki)
+  - [AI Office Prompt Pack $9](https://350943922173.gumroad.com/l/cspjie)
+  - [Notion Efficiency Templates $7](https://350943922173.gumroad.com/l/orvlko)
+  - [AI Office Efficiency Handbook $6](https://350943922173.gumroad.com/l/ekkort)
 
 ## ⭐ 支持
 
